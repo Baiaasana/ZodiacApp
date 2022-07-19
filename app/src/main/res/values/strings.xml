@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerView(Grid)</string>
+    <string name="zodiac">ზოდიაქო:</string>
+    <string name="leo">ლომი</string>
+    <string name="name">სახელი</string>
+    <string name="lastName">გვარი</string>
+    <string name="sign">ზოდიაქოს ნიშანი</string>
+    <string name="main_name">ზოდიაქო</string>
+    <string name="add_user">მომხმარებლის დამატება</string>
+    <string name="incognito">INCO GNITO</string>
+    <string name="edit_info">მონაცემების რედაქტირება</string>
+    <string name="save">შენახვა</string>
+    <string name="update_success">მომხმარებლის მონაცემები განახლდა!</string>
+    <string name="cancel"><font  color="@color/white"> გაუქმება </font></string>
+    <string name="remove_user">წაშლა</string>
+    <string name="remove_success">მომხმარებელი წაიშალა ბაზიდან!</string>
+    <string name="no">არა</string>
+    <string name="yes">დიახ</string>
+    <string name="add_success">მომხმარებელი წარმატებით დაემატა ბაზაში!</string>
+    <string name="empty_fields">აუცილებელია შეავსოთ ყველა ველი!</string>
+</resources>
