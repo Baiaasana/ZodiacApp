@@ -1,4 +1,4 @@
-# ZodiacoApp
+# Zodiac App
 # Simple single activity app with recycler view
 # Functions --> add, remove and update users
 ![11](https://user-images.githubusercontent.com/92223568/179791288-f80ac609-a0e2-4125-964b-495fb456ddac.PNG)
